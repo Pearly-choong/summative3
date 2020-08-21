@@ -1,9 +1,14 @@
 # Summative3 - Full Stack Application
-Yoobee Module3 Summative (Vandy/Pearly/Kristine)
+## Group Project by Vandy, Pearly and Krisitne - Yoobee Module3 Summative Assessment
 
+Niche Market App - C2C Online Baking Goods.
 
-This is our Full stack application works on both ends front and back. You can fetch and manipulate backend data through user interface in Browser. Alternatively, you can use Postman to monitor the request and response.
+This project is to work as a team to build an application that is intuitive to use and displayed data from an API in an easily understandable representation. 
 
+Full stack application works on both ends front and back. You can fetch and manipulate backend data through user interface in Browser. Alternatively, you can use Postman to monitor the request and response.
+
+## To run this project
+(Make sure Node.js is installed)
 
 Step 1 – Clone this project to www folder (in Windows) or htdocs folder (in MAC )
 git clone https://github.com/Vandy1104/summative3.git
