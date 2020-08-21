@@ -1,7 +1,5 @@
-# Summative3 - Full Stack Application
+# Niche Market App (C2C Online Baking Goods) - Full Stack Application
 ## Group Project by Vandy, Pearly and Krisitne - Yoobee Module3 Summative Assessment
-
-Niche Market App - C2C Online Baking Goods.
 
 This project is to work as a team to build an application that is intuitive to use and displayed data from an API in an easily understandable representation. 
 
