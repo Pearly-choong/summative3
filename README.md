@@ -53,7 +53,7 @@ In postman use - localhost:3000 or use IP in the place of localhost (/relatedend
 
 #### Step 6 - Endpoints
 |  Endpoints            |  Description                     |  Acceptable values |  Method | 
-|-----------------------|:--------------------------------:|--------------------|---------|
+|-----------------------|:---------------------------------|--------------------|---------|
 | /allProducts/p=       | get product by product id        |                    | GET     | 
 | /loginUser            | check for existing user to login | 	                | POST    |  
 | /updateUser/          | update user detail               | 	                | PATCH   |
