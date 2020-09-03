@@ -52,22 +52,22 @@ In postman use - localhost:3000 or use IP in the place of localhost (/relatedend
 
 
 #### Step 6 - Endpoints
-|  Endpoints |  Description |  Acceptable values |  Method | 
-|---|---|---|---|---|
-| /allProducts/p= |  get product by product id |   |  GET | 
-| /loginUser |  check for existing user to login | 	  | POST  |  
-| /updateUser/ | update user detail  | 	  | PATCH  |
-| /registerUser/ | add a new user to db  | 	  | POST  | 
-| /user/u=   | get user by user id from db  | 	  | GET  | 
-| /allProducts | view all products from json file  | 	  | GET  | 
-| /allProducts/u=	 | get product by user id  | 	  | GET  | 
-| /allProducts/cat=	 | get product by category  | 	  | GET  |
-| /allProducts/flavour= | get product by flavour  | 	  | GET  | 
-| /addProduct | add a product in db  | 	  | POST  | 
-| /updateProduct/ | modify a product using id  | ObjectId  | PATCH  | 
-| /deleteProduct/ | remove a product using id  | ObjectId  | DELETE  | 
-| addComment/p=  |  add new comment  |   |POST   | 
-| /allComments/p=	  | get comment by product ID |   | GET  | 
+|  Endpoints            |  Description                     |  Acceptable values |  Method | 
+|-----------------------|:--------------------------------:|--------------------|---------|
+| /allProducts/p=       | get product by product id        |                    | GET     | 
+| /loginUser            | check for existing user to login | 	                | POST    |  
+| /updateUser/          | update user detail               | 	                | PATCH   |
+| /registerUser/        | add a new user to db             | 	                | POST    | 
+| /user/u=              | get user by user id from db      | 	                | GET     | 
+| /allProducts          | view all products from json file | 	                | GET     | 
+| /allProducts/u=	    | get product by user id           | 	                | GET     | 
+| /allProducts/cat=	    | get product by category          | 	                | GET     |
+| /allProducts/flavour= | get product by flavour           | 	                | GET     | 
+| /addProduct           | add a product in db              | 	                | POST    | 
+| /updateProduct/       | modify a product using id        | ObjectId           | PATCH   | 
+| /deleteProduct/       | remove a product using id        | ObjectId           | DELETE  | 
+| addComment/p=         | add new comment                  |                    | POST    |            
+| /allComments/p=	    | get comment by product ID        |                    | GET     | 
 
 
 
